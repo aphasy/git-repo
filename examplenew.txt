@@ -4,3 +4,5 @@ Testing
 Additional line
 
 Another line added to test commit messages
+Another line
+Testing
